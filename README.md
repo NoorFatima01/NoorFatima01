@@ -6,10 +6,9 @@ I'm a **Full-Stack Web Developer** passionate about building scalable applicatio
 - **Languages**: JavaScript, TypeScript, Python, Java, C++
 - **Frontend:** React.js, Next.js  
 - **Backend Frameworks:** Node.js, Express.js, NestJS, FastAPI  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Backend Services:** Supabase, Firebase  
-- **Message Brokers & Task Queues:** RabbitMQ, Celery  
-- **Tools & Others:** Git, Docker  
+- **Caching, Message Brokers & Task Queues:** RabbitMQ, Celery, Redis
 
 ### 🔭 What I'm working on
 - Building full-stack applications with modern frameworks  
@@ -19,7 +18,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable applicatio
 - Machine Learning & AI to expand my skills and build intelligent, AI-driven web applications
 - Go (Golang) for backend and systems programming  
 - AWS for cloud infrastructure and deployment  
-- Kubernetes for container orchestration and scaling applications  
+- Docker and Kubernetes for container orchestration and scaling applications  
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/noorfatima1012/)  
