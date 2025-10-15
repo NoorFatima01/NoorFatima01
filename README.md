@@ -9,13 +9,13 @@ I'm a **Full-Stack Web Developer** passionate about building scalable applicatio
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Backend Services:** Supabase, Firebase  
 - **Caching, Message Brokers & Task Queues:** RabbitMQ, Celery, Redis
+- **Automation:** n8n
 
 ### 🔭 What I'm working on
 - Building full-stack applications with modern frameworks  
 - Exploring cloud services and scaling backend systems  
 
 ### 🌱 I’m currently learning
-- Machine Learning & AI to expand my skills and build intelligent, AI-driven web applications
 - Go (Golang) for backend and systems programming  
 - AWS for cloud infrastructure and deployment  
 - Docker and Kubernetes for container orchestration and scaling applications  
