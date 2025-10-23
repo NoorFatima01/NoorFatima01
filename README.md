@@ -7,8 +7,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable applicatio
 - **Frontend:** React.js, Next.js  
 - **Backend Frameworks:** Node.js, Express.js, NestJS, FastAPI  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Backend Services:** Supabase, Firebase  
-- **Caching, Message Brokers & Task Queues:** RabbitMQ, Celery, Redis
+- **Backend Tools & Services:** Supabase, Firebase, RabbitMQ, Celery, Redis
 - **Automation:** n8n
 
 ### 🔭 What I'm working on
