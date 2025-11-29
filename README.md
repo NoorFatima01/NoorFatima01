@@ -4,7 +4,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable applicatio
 
 ### 🚀 Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, Java, C++
-- **Frontend:** React.js, Next.js  
+- **Frontend:** React.js, Next.js, Zustand, TanStack Query  
 - **Backend Frameworks:** Node.js, Express.js, NestJS, FastAPI  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Backend Tools & Services:** Supabase, Firebase, RabbitMQ, Celery, Redis
