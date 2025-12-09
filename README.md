@@ -1,10 +1,10 @@
 ## Hi there, I'm Noor 👋
 
-I'm a **Full-Stack Web Developer** passionate about building scalable applications and clean user experiences.  
+I'm a **Full-Stack Developer** building scalable applications and clean user experiences.  
 
 ### 🚀 Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, Java, C++
-- **Frontend:** React.js, Next.js, Zustand, TanStack Query  
+- **Frontend:** React.js, Next.js, Zustand, TanStack Query, TailwindCSS  
 - **Backend Frameworks:** Node.js, Express.js, NestJS, FastAPI  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Backend Tools & Services:** Supabase, Firebase, RabbitMQ, Celery, Redis
@@ -15,16 +15,17 @@ I'm a **Full-Stack Web Developer** passionate about building scalable applicatio
 - Exploring cloud services and scaling backend systems  
 
 ### 🌱 I’m currently learning
-- Go (Golang) for backend and systems programming  
+- React at a deeper level, exploring its core architecture and internals
 - AWS for cloud infrastructure and deployment  
-- Docker and Kubernetes for container orchestration and scaling applications  
+- Docker and Kubernetes for container orchestration and scaling applications
+- Knowledge graphs for representing interconnected data
+- Go (Golang) for backend and systems programming  
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/noorfatima1012/)  
 - [Email](nfatima101204@gmail.com) 
 - [Portfolio Website](https://noor-fatima.vercel.app/)
  
-
 <!--
 **NoorFatima01/NoorFatima01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
