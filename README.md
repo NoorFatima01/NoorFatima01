@@ -16,7 +16,6 @@ I'm a **Full-Stack Developer** building scalable applications and clean user exp
 
 ### 🌱 I’m currently learning
 - React at a deeper level, exploring its core architecture and internals
-- AWS for cloud infrastructure and deployment  
 - Docker and Kubernetes for container orchestration and scaling applications
 - Knowledge graphs for representing interconnected data
 - Go (Golang) for backend and systems programming  
