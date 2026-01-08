@@ -3,9 +3,9 @@
 I'm a **Full-Stack Developer** building scalable applications and clean user experiences.  
 
 ### 🚀 Tech Stack
-- **Languages**: TypeScript, Python, Java, C++
+- **Languages**: TypeScript, Python, Java
 - **Frontend:** React.js, Next.js, Zustand, TanStack Query, TailwindCSS  
-- **Backend:**  RestAPI, Node.js, Express.js, NestJS, FastAPI, Celery, Redis, RabbitMQ
+- **Backend:**  RestAPI, Node.js, Express.js, NestJS, FastAPI, Redis, RabbitMQ
 - **Databases & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase
 - **Automation:** n8n
 
