@@ -7,7 +7,6 @@ I'm a **Full-Stack Developer** building scalable applications and clean user exp
 - **Frontend:** React.js, Next.js, Zustand, TanStack Query, TailwindCSS  
 - **Backend:**  RestAPI, Node.js, Express.js, NestJS, FastAPI, Redis, RabbitMQ
 - **Databases & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase
-- **Automation:** n8n
 
 ### 🌱 I’m currently learning
 - React at a deeper level, exploring its core architecture and internals
